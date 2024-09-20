@@ -1,19 +1,5 @@
 {
-  "mod_elements": [
-    {
-      "name": "MechanicalhandRightclicked",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "mechanicalhand_rightclicked",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/createweapons/procedures/MechanicalhandRightclickedProcedure.java"
-        ],
-        "dependencies": []
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
